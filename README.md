@@ -149,9 +149,7 @@ Then run the simulation.
 
 ## 10. Author
 
-**Name:** [Your Name]
-
-**Major:** Semiconductor IC Design
+**Name:** NGO VAN THANG
 
 **Project:** Digital Design / RTL Design / Functional Verification
 
