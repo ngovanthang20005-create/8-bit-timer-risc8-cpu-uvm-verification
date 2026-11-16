@@ -1,0 +1,10 @@
++incdir+../tb/uvm
+../rtl/timer8.v
+../rtl/timer_regs.v
+../rtl/timer_top.v
+../sv/timer_ref.v
+../sv/timer_checker.v
+../sv/bus_if.sv
+../sv/timer_sva.sv
+../tb/uvm/timer_pkg.sv
+../tb/uvm/tb_top.sv

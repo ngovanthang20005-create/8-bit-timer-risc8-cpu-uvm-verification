@@ -1,0 +1,14 @@
+rtl/risc8_soc.v
+rtl/risc8_5stage_core.v
+rtl/alu.v
+rtl/regfile.v
+rtl/imem.v
+rtl/dmem.v
+rtl/control_unit.v
+rtl/hazard_unit.v
+rtl/periph/timer8.v
+rtl/periph/timer_regs.v
+rtl/periph/timer_top.v
+sv/timer_ref.v
+sv/timer_checker.v
+tb/tb_risc8_soc.v

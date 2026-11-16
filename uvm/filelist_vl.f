@@ -1,0 +1,11 @@
+-I../uvm/tb
+-Itb
+../rtl/periph/timer8.v
+../rtl/periph/timer_regs.v
+../rtl/periph/timer_top.v
+../sv/timer_ref.v
+../sv/timer_checker.v
+bus_if.sv
+timer_sva.sv
+tb/timer_pkg.sv
+tb/tb_top.sv
